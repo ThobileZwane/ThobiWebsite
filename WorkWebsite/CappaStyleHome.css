@@ -1,0 +1,74 @@
+h1 {
+	font-family: Palatino,'Times', serif;
+	font-size: 30px;
+	height: 3px;
+	padding: 50px;
+	color: rgba(0, 0, 225, 0.5);
+
+}
+h2{
+	font-size: 40px;
+	font-family: serif;
+	height: 50px;
+	color: #fff;
+	font-style: bold italic;
+	padding: 0 60px;
+	position: relative;
+	top: 200px;
+	
+}
+
+body{
+	background-image: url("IMG-20170811-WA0027.jpg");
+	background-size: cover;
+	background-position: relative;
+	background-repeat: no-repeat;
+	top: 40px;
+	
+		
+}
+
+
+.text{
+	color: rgba(0, 0, 225, 0.9);
+	font-size: 20px;
+	padding: 0 550px;
+	position: relative;
+	top: 280px;
+}
+
+
+.menubar{
+	font-family:'georgia', san-serif;
+	font-weight: 5px; 
+	color:#fff;
+	position: fixed;
+	top: 0;
+	
+}
+
+
+ nav li{
+	font-weight: 100px;
+	font-style: bold;
+	display: inline;
+	padding: 0 70px;
+	width: 30px;
+	position: relative;
+	top: 0.3px;
+		
+}
+
+#footer{
+	color: blue;
+	position: relative;
+	top: 330px;
+}
+
+.socialmedia{
+	display: inline;
+	position: relative;
+	top: 230px;
+	
+	
+}
